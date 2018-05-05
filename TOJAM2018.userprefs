@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="TOJAM2018.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\Characters\DoughMonster\DoughMonster.cs">
+    <Files>
+      <File FileName="Assets\Code\Characters\PathFind\Grid.cs" Line="46" Column="14" />
+      <File FileName="Assets\Code\Characters\PathFind\Node.cs" Line="15" Column="22" />
+      <File FileName="Assets\Code\Characters\PathFind\PathFinding.cs" Line="10" Column="13" />
+      <File FileName="Assets\Code\World\World.cs" Line="44" Column="35" />
+      <File FileName="Assets\Code\Utils\TilemapUtils.cs" Line="66" Column="46" />
+      <File FileName="Assets\Code\World\TypedTile.cs" Line="13" Column="22" />
+      <File FileName="Assets\Code\Characters\DoughMonster\DoughMonster.cs" Line="46" Column="1" />
+      <File FileName="Assets\Code\Characters\Character.cs" Line="10" Column="8" />
+      <File FileName="Assets\Code\Characters\DoughMonster\States.cs" Line="70" Column="47" />
+      <File FileName="Assets\Code\Characters\PathFind\Point.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
